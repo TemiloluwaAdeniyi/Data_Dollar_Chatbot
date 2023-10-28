@@ -11,10 +11,10 @@ export default function Chat() {
     <div className="flex items-center px-4 py-3 bg-opacity-80 backdrop-blur-lg">
       <div className="w-full flex items-center justify-between">
         <h2 className="text-xl md:text-2xl lg:text-3xl font-bold text-white truncate flex items-center">
-          Chat Hugging Face UI
+          Data Dollar Chat
         </h2>
         <a
-          href="https://github.com/ElonMusk2002/chat-huggingface"
+          href="https://github.com/TemiloluwaAdeniyi/Data_Dollar_Chatbot"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -88,7 +88,7 @@ export default function Chat() {
       </button>
         {messages.length > 0 && (
           <a
-            href="https://github.com/ElonMusk2002/chat-huggingface"
+            href="https://github.com/TemiloluwaAdeniyi/Data_Dollar_Chatbot"
             target="_blank"
             rel="noopener noreferrer"
             className="text-white ml-4 hover:text-gray-500"
